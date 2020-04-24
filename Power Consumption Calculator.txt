@@ -1,0 +1,10 @@
+Module				Amps						Volts						Watts
+Solar Panel			+200mA						5V						+1W
+Red LED				-10mA						2V						-0.05W
+Relay				-85mA						5V						-0.25W
+Water Pump 			-90mA (Min 60mA)				3V (2.7V-3.3V)					-0.27W
+Ardiuno				-45mA						6V (Can use 5V)					-0.27W
+Hygrometer			-5mA						3.3V (Can use 5V)				-0.0165W	
+Water Level Sensor		-20mA						5V						-0.1W
+
+Total										Will be used in parallel			+0.0435 (Very Close)
